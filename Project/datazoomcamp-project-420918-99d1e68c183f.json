@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "datazoomcamp-project-420918",
+  "private_key_id": "99d1e68c183fb3070f6bb75814c6d461b19fa513",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDisVpXjBYtIQ9w\nYNYh5llN0fluXUFu5lyutJL+SRqlbzVloABZuvCmhF8JUsZyz/wE0iV4QltiByBl\noc8Zgr0mYQceGYSfVrf4di1DN/HVlaP+zRYMcjS6rQ5+OlrPagOvSDQtoB5N1IkM\njFWuxLH/tauUy6vFElYZf6tBg08ct6T7Gppg28nD+YH6J1eTof1Lp8jYA+ddfTRI\nASrcvWNeG05K2h+j3I51Cy16mJTlszQYjt2DTDAH+uXvaOcXCkLvr/8yCqIY80nt\ntprepWvnYfigP/hm0rJHaV1awrp/ghsxOQ1N7VN6SW3xT9tDSHUAN78E3fq46FH7\nfHYrv+JDAgMBAAECggEAC+9Y2X5SnJJx0aTUVHlgMkZGL5bq68yZ2WJznfFGkEP7\nauiyaNPJLIf2yPLgTjzAM/2SydlHt/2DQyNY8ZFK8n5UdZoHIkYNux/drWOAo/h6\ngRIjGwlx2HIybr4VXqr7zq3dsWYNfzBO/UFWMYFbLbwbo69yN7BWpoXTA/v50LUk\nR1M696aca6JKYsZ5l7X9q0j7tE8PhUSe7JlqaJJAuYBnYmO/Mnef+6DFiogabW8k\nOkWhMqXSdhneqQ90/0v1k2wXAnNH6EoP+/ky5e1AhUX3mpShfbbGSgodYdDntvHc\nmZaHWHuKN9KaoJD7qOUuRmanA3KMRessHUcNjCIx4QKBgQD8+0OuM6OYoBptAwJn\nR+iA4W7UofGRixxGYNO37On/mblZAfCEbe5KkH9hBvgSkBllz4fkBQQROj6XMkKT\nruMGIRgjlzpvZd4+72bzK4IiXwKrTo2ivuDYD+CKsm9zg7ffRMP9d6IibVsDF5rd\nV5jlC06sYA0aAiJOBNUL/u6/ZwKBgQDlZcoM57dEQ5p+xsPdfvqssee2RFlld50Z\n+RPhi/DaQkBMF7ZDyzzZG8ABCG2C0FmjU2U2A+d3fINFFX3XU+bFqswHZg3uS2uQ\nGGYs1usDx+BGkkIHXsyTs53gq6hWuVBK3NoiXrdBa6k0itpAFNDsG3tl0rNW6lXN\nNFOh+F2oxQKBgGi2vHoDx+iqBKYww7LqcdO+/DgpXCtpUGfVNm2ANA9nmu+7vMmk\nEylsDD2mO9K7MLgSoeYBKYDUAgpldGda0X+8/RfmRfrMSKT2RT/MN45wk1NDLZ86\nsSjd0Yy3dSh0UgypkxJ8jXEAoNZz09dgpdnQx1zUWTf1wCtZFrJjcIFrAoGAP5xL\nO+rhMefBJph9ZaU5Y7vtcehgFbfmc3ZTIf8JKaynYbJNk1z/IYEFbAPnQhf+U0Dj\n1uecPtDjIbwE6jnUy0lCTGbrRAHb8NgjNRnfj2vUcB1Me/i4p9ht1ggjpPC8KBY3\n0sIK9PQitnQucwiSqnYwcJrNqjNO2ZlB+68AYbUCgYBJrp8EcZxpdnEvKqzoBNNW\nFaOg+aWU1k+zEaEUpF5ueeGoODnANax+5BPG7NUlxQ2ddMrpmk3kIk0rTh7rh1lp\nbjG4sF+aDRxx8+3N1D4dqS1dI7RFTCbsd3WPvqIKEZkhWaotkrpLQz9mdBhSgy5V\nTqCjb56UgmpNCDiRPyDofw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform-bucket@datazoomcamp-project-420918.iam.gserviceaccount.com",
+  "client_id": "115285403374415702412",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform-bucket%40datazoomcamp-project-420918.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
