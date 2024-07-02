@@ -8,7 +8,8 @@ This project analyzes the NYC 311 noise complaint data to derive actionable insi
 - Data Transformation: Applies transformation logic using PySpark on Dataproc and stores the result in BigQuery.
 - Data Visualization: Creates dashboards in Looker Studio, leveraging BigQuery datasets.
 
-![image](https://github.com/sivasankarseelam/NYC-Complaints-Streaming-Data-Pipeline---GCP/assets/133698242/954cf3e7-907b-406e-8cd4-5f13e2cf59b0)
+![image](https://github.com/sivasankarseelam/NYC-Complaints-Streaming-Data-Pipeline---GCP/assets/133698242/4d49fc40-0771-444b-8606-a37e4678393d)
+
 
 ### Project Setup
 #### Instructions for setting up and running the project:
